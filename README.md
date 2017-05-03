@@ -35,7 +35,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
-        `tools:node="replace"`>
+        tools:node="replace">
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -44,5 +44,5 @@
             </intent-filter>
         </activity>
         <activity android:name=".ActivityFlavorOne"></activity>
-    </application>
-  ```
+    </application>```
+  
