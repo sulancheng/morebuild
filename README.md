@@ -45,5 +45,6 @@
         </activity>
         <activity android:name=".ActivityFlavorOne"></activity>
     </application>
-    ```
+    
+ ```
   
