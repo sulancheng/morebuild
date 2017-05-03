@@ -1,8 +1,8 @@
 # morebuild
 关于一个工程中存在多个项目的demo
 需在对应项目的build下面进行如下的配置。
-```
- sourceSets {
+```sh
+ sourceSets 
         main {
             java.srcDirs = ['src/main', 'src/main/java', 'src/main/java/']
 
