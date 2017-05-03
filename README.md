@@ -44,5 +44,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".ActivityFlavorOne"></activity>
-    </application>```
+    </application>
+    ```
   
